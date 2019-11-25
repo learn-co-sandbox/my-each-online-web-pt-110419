@@ -1,5 +1,6 @@
 def my_each(words) # put argument(s) here
-  words.length.times
+counter = 0 
+  while words.length.times
    # words do |i|
      # i
     # end
