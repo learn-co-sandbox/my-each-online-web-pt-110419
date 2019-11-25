@@ -6,6 +6,7 @@ counter = 0
    # words do |i|
      # i
      end
+     words
   # while i == 4
  # 
  # end
