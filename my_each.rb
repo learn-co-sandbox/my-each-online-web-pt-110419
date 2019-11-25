@@ -1,5 +1,5 @@
 def my_each(words) # put argument(s) here
-words.length.times
+# words.length.times
    # words do |i|
      # i
     # end
