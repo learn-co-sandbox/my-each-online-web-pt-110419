@@ -1,8 +1,8 @@
 def my_each(words) # put argument(s) here
 counter = 0 
   while  counter < words.length
-  counter += 1
   yield(words[counter])
+  counter += 1
    # words do |i|
      # i
      end
